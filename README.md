@@ -3,3 +3,6 @@ Nexter is a project I completed for a course I undertook. The web page revolves 
 
 
 This project is from this course: https://www.udemy.com/advanced-css-and-sass/learn/v4/overview
+
+
+View project here: https://bradzerafa.github.io/Nexter.github.io/
