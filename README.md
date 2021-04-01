@@ -1,8 +1,24 @@
-# Nexter.github.io
-Nexter is a project I completed for a course I undertook. The web page revolves around a top real estate company. During this project I built the entire site from scratch while creating responsiveness for it to be viewed easily on a laptop, tablet or mobile phone. 
+# Nexter Real Estate
 
+View project: https://unruffled-ptolemy-6a34a5.netlify.app/
 
-This project is from this course: https://www.udemy.com/advanced-css-and-sass/learn/v4/overview
+## Project Description:
 
+The Nexter real estate project was created to practice creating a responsive HTML and CSS website. The idea and design is from an advanced CSS and Sass course on Udemy although i went ahead and built the overall HTML and CSS myself
 
-View project here: https://bradzerafa.github.io/Nexter.github.io/
+## Notable things done:
+
+- Responsive Design
+- Flexbox
+- Media Queries.
+
+## Technologies Used:
+
+### Front-End:
+
+- HTML
+- CSS
+
+### Hosting:
+
+- Netlify
